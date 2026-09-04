@@ -1,0 +1,7 @@
+jupyter
+langchain
+langsmith
+fastapi
+uvicorn
+ipykernel
+langgraph-checkpoint-sqlite
